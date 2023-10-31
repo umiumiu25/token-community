@@ -1,3 +1,2 @@
-
-      module.exports = "0x9F431F52539D63453C0C82180444B4a362186B96"
-    
+export const memberNFTAddress = "0x9F431F52539D63453C0C82180444B4a362186B96";
+export const tokenBankAddress = "0x1a55dCB9bD5ce3D737BB735D3b7BdB1C013e44b2";
